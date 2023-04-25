@@ -1,0 +1,10 @@
+{
+  "iaps": [],
+  "deferInit": true,
+  "included": false,
+  "purchaseValidation": {
+    "active": true,
+    "timeoutInterval": 10,
+    "account": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "store": "google",
+  "gameEngine": "unity",
+  "audienceModeBuildOnly": "non-children",
+  "orientation": "portrait",
+  "geoLocationServer": "ttplugins.ttpsdk.info",
+  "appId": "",
+  "bundleId": "com.rifrafdesign.DIY_Bike_Repairing",
+  "testMode": false,
+  "askForTracking": true,
+  "isAdMob": true,
+  "appBuildConfig": {
+    "admob": {
+      "application": ""
+    }
+  }
+}

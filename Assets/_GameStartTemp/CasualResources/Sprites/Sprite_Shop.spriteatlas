@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sprite_Shop
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7e104638f8145034f9c5027810260111, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e4b3ed4149617440d8974c0f2f17f181, type: 3}
+  - {fileID: 21300000, guid: cea394a27d263441d8f7ce2ba56051c7, type: 3}
+  - {fileID: 21300000, guid: 699fa1b27df324944adbe18e992b5365, type: 3}
+  - {fileID: 21300000, guid: d70341d49e8c547f7831a57c747b027c, type: 3}
+  - {fileID: 21300000, guid: 52f2c2762ca1c4e62a1b54b3508f9f7a, type: 3}
+  - {fileID: 21300000, guid: 7b10a69a782a447fabcded6bea65c259, type: 3}
+  - {fileID: 21300000, guid: 87c2e8ba15fe74b0cb2addce821cc65a, type: 3}
+  - {fileID: 21300000, guid: da15876c0be354c9282f1073d8695d04, type: 3}
+  - {fileID: 21300000, guid: 696b06ce9de9b447489ca03ed2a1340f, type: 3}
+  - {fileID: 21300000, guid: 8e1ae1bf9bc904ccda9e2d278204b91b, type: 3}
+  - {fileID: 21300000, guid: ac7658ffa4f564751bd564e9e1c19ef3, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - buy_btn_icon_gem
+  - buy_btn_icon_gold
+  - ad_bg
+  - btn_small_white
+  - buy_btn_icon_ad
+  - gem_glow
+  - gold_bg
+  - ad_glow
+  - gold_glow
+  - shop_bg
+  - gem_bg
+  m_RenderDataMap: {}
+  m_Tag: Sprite_Shop
+  m_IsVariant: 0

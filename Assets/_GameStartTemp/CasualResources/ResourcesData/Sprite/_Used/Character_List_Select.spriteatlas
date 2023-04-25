@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Character_List_Select
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: fae15b5fc314ea044ada0899c52c73ad, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 96ff8090ed400444ca45e8ef17e76f0c, type: 3}
+  - {fileID: 21300000, guid: 8b9fc201929474b778b2a448e4e893db, type: 3}
+  - {fileID: 21300000, guid: 83e5393249eb3469aa9f60512ba6edd4, type: 3}
+  - {fileID: 21300000, guid: 573b25031f7e843bcb01e1f93c60e1ed, type: 3}
+  - {fileID: 21300000, guid: b76446236559e4a7ebfbdc6519fa9d07, type: 3}
+  - {fileID: 21300000, guid: 7977357369d84403c9fb6fe34bbc9421, type: 3}
+  - {fileID: 21300000, guid: 525d20051d2a241b38c19ea9063308ae, type: 3}
+  - {fileID: 21300000, guid: 7135d585f82ae408d8713917af908381, type: 3}
+  - {fileID: 21300000, guid: 3289f8a53adbf49e499c2fbab614344b, type: 3}
+  - {fileID: 21300000, guid: f38098d552a984003a237adf1d93ca19, type: 3}
+  - {fileID: 21300000, guid: eb22d376b7994415aac9d7a87ff27901, type: 3}
+  - {fileID: 21300000, guid: c3c72287193214996af4f29c39ba21ef, type: 3}
+  - {fileID: 21300000, guid: fb3d9ab77192f48d29273337d1eb43a5, type: 3}
+  - {fileID: 21300000, guid: da0e4bb8481b44602adcf9993587cdf5, type: 3}
+  - {fileID: 21300000, guid: a00224e887fe64d2398a8b6255a5a131, type: 3}
+  - {fileID: 21300000, guid: 85cb9e79de8564735a84b9afaf738c63, type: 3}
+  - {fileID: 21300000, guid: 1ebe9d3ac5ce74f3589c006da297bdc7, type: 3}
+  - {fileID: 21300000, guid: f3b7e31eb60b84b17870d0b5d926cfad, type: 3}
+  - {fileID: 21300000, guid: 23e2b16eb7e0748babf6dc861d198ed1, type: 3}
+  - {fileID: 21300000, guid: 813b7c7ef9aa146f9b4d2333c590c88c, type: 3}
+  - {fileID: 21300000, guid: efbc56be61e874d4d9226c41a9525447, type: 3}
+  - {fileID: 21300000, guid: cc8a3b9fbaeaa42e89c0f5ba75213684, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - character_sample_4
+  - user_thumb_6
+  - user_thumb_0
+  - user_thumb_7
+  - character_sample_2
+  - user_thumb_shadow
+  - user_thumb_5
+  - character_sample_5
+  - user_thumb_1
+  - character_grade_star_dim
+  - character_sample_3
+  - character_sample_8
+  - character_grade_star
+  - user_thumb_2
+  - user_thumb_4
+  - user_thumb_focus
+  - character_sample_1
+  - character_sample_0
+  - character_sample_6
+  - character_sample_7
+  - user_thumb_3
+  - character_sample_9
+  m_RenderDataMap: {}
+  m_Tag: Character_List_Select
+  m_IsVariant: 0

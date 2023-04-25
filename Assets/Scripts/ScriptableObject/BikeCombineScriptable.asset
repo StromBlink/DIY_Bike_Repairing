@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 675c32bf4fbc6c8438c9b540aaf8cf39, type: 3}
+  m_Name: BikeCombineScriptable
+  m_EditorClassIdentifier: 
+  bikePartPositions:
+  - partName: Seat
+    partIndex: 0
+    position: {x: 10.293234, y: 5.7521076, z: 0.009658575}
+    meshRenderer: {fileID: 0}
+  - partName: Chain
+    partIndex: 1
+    position: {x: 9.226129, y: 5.7826643, z: -0.30497718}
+    meshRenderer: {fileID: 0}
+  - partName: Wheel
+    partIndex: 2
+    position: {x: 8.666463, y: 5.678895, z: -0.9289503}
+    meshRenderer: {fileID: 0}
+  - partName: model_1
+    partIndex: 3
+    position: {x: 9.318247, y: 5.7463303, z: -0.39692855}
+    meshRenderer: {fileID: 0}
+  - partName: Axe
+    partIndex: 4
+    position: {x: 9.6763115, y: 5.727286, z: -1.4406188}
+    meshRenderer: {fileID: 0}
+  - partName: Body
+    partIndex: 5
+    position: {x: 9.4813595, y: 5.7121305, z: -0.57314944}
+    meshRenderer: {fileID: 0}
+  - partName: Foot
+    partIndex: 6
+    position: {x: 8.618382, y: 5.703491, z: -0.5868213}
+    meshRenderer: {fileID: 0}

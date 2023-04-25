@@ -1,0 +1,28 @@
+<dependencies>
+  <packages>
+    <package>com.tabtale.tt_plugins.android:TT_Plugins_Analytics:4.2.0.1.2</package>
+    <package>com.tabtale.tt_plugins.android:TT_Plugins_AppsFlyer:4.2.0.3.1</package>
+    <package>com.tabtale.tt_plugins.android:TT_Plugins_Core:4.2.0.5.1</package>
+    <package>com.tabtale.tt_plugins.android:TT_Plugins_CrashTool:0.0.0.0.63</package>
+    <package>com.tabtale.tt_plugins.android:TT_Plugins_FirebaseAgent:4.2.0.1.2</package>
+    <package>com.tabtale.tt_plugins.android:TT_Plugins_Privacy_Settings:0.0.0.0.438</package>
+    <package>com.tabtale.tt_plugins.android:TT_Plugins_Remote_Config:0.0.0.0.43</package>
+    <package>com.tabtale.tt_plugins.android:TT_Plugins_Unity:3.8.0.0.1</package>
+  </packages>
+  <files />
+  <settings>
+    <setting name="androidAbis" value="arm64-v8a,armeabi-v7a" />
+    <setting name="bundleId" value="com.rifrafdesign.DIY_Bike_Repairing" />
+    <setting name="explodeAars" value="False" />
+    <setting name="gradleBuildEnabled" value="True" />
+    <setting name="gradlePropertiesTemplateEnabled" value="False" />
+    <setting name="gradleTemplateEnabled" value="True" />
+    <setting name="installAndroidPackages" value="True" />
+    <setting name="localMavenRepoDir" value="Assets/GeneratedLocalRepo" />
+    <setting name="packageDir" value="Assets/Plugins/Android" />
+    <setting name="patchAndroidManifest" value="True" />
+    <setting name="patchMainTemplateGradle" value="True" />
+    <setting name="projectExportEnabled" value="False" />
+    <setting name="useJetifier" value="False" />
+  </settings>
+</dependencies>

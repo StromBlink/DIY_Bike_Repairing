@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sprite_Common
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 55
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e3595ade3f7cc4ce290dc8713c7fb97b, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2ef435f2c4f7148a59c2b48bd602ab98, type: 3}
+  - {fileID: 21300000, guid: b051c1a34ac25474ab551d50874908eb, type: 3}
+  - {fileID: 21300000, guid: 6f6aa1f3150e14816b14e73168df3d21, type: 3}
+  - {fileID: 21300000, guid: 76af61745e6024f13a725101fa7b9506, type: 3}
+  - {fileID: 21300000, guid: 3df930a428a164e6a996d468ac395702, type: 3}
+  - {fileID: 21300000, guid: fd44e9a4cfec4417fa5cac223177f18f, type: 3}
+  - {fileID: 21300000, guid: 607e61b40dd504f0da16f335bc772aad, type: 3}
+  - {fileID: 21300000, guid: ef1786f6303a945f3ba90be2c4610d4b, type: 3}
+  - {fileID: 21300000, guid: f223280759c4843d2803866c7a64a499, type: 3}
+  - {fileID: 21300000, guid: b770c857c213b4452a39371b0d493fb4, type: 3}
+  - {fileID: 21300000, guid: 2cd4f90965a894c43825d550cc0ac261, type: 3}
+  - {fileID: 21300000, guid: 0d5b932a816d44219a6b86387609979d, type: 3}
+  - {fileID: 21300000, guid: 460bf19a29ba043c1a6b42d6cfee7498, type: 3}
+  - {fileID: 21300000, guid: 591a5bba9fa374bc6b5173581b6bfbae, type: 3}
+  - {fileID: 21300000, guid: d0e9debb5626245d4a3e7ccb634cc46e, type: 3}
+  - {fileID: 21300000, guid: c22decdb6aaa54ae3af2cf2fe3769fa6, type: 3}
+  - {fileID: 21300000, guid: e98d740d87cac47edb9389939f8b2e10, type: 3}
+  - {fileID: 21300000, guid: 2a91649ded3da4652bc29f3fbf89c05b, type: 3}
+  - {fileID: 21300000, guid: f5ad91cd42cea40f5afaf7e4a940a121, type: 3}
+  - {fileID: 21300000, guid: f6ec138f829a549f788d01c6246bea97, type: 3}
+  - {fileID: 21300000, guid: e06324bfcc05a4c12a4fefe443801863, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - btn_back
+  - switch_button_on
+  - popup_btn
+  - switch_point
+  - loading
+  - switch_bg_on
+  - common_toast_popup
+  - status_icon_gem
+  - popup_bg
+  - dim
+  - switch_bg
+  - status_icon_gold
+  - white
+  - ranking_btn_close
+  - switch_icon_off
+  - score_bar
+  - switch_button_off
+  - switch_bg_off
+  - common_popup_bg
+  - switch_icon_on
+  - common_input_bg
+  m_RenderDataMap: {}
+  m_Tag: Sprite_Common
+  m_IsVariant: 0
